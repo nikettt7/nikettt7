@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikettt7
 - 👀 I’m interested in ... Web 3.0, Product Development
 - 🌱 I’m currently learning ... UE4, life
-- 💞️ I’m looking to collaborate on ... Meta/Gaming Products
+- 💞️ I’m looking to collaborate on ... Gaming or VR Products
 - 📫 How to reach me ... reachouttoniket.wordpress.com
 
 <!---
