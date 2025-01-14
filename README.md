@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @nikettt7
+- 👋 Hi, I’m Niket Kalia (SuperDam)
+- Indie designer, narrative writer, ex-product manager
+
 - 👀 I’m interested in ... Every fascinating design
 - 🌱 I’m currently learning ... Storyteling mediums
-- 💞️ I’m looking to collaborate on ... Game projects
+- 💞️ I’m looking to collaborate on ... Game Design or Writing projects
 - 📫 How to reach me ... reachouttoniket.wordpress.com
+  
+- 🎮 Game projects ... https://super-dam.itch.io/
 
 <!---
 nikettt7/nikettt7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
