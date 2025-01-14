@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikettt7
-- 👀 I’m interested in ... Product Development
-- 🌱 I’m currently learning ... Unreal, life
-- 💞️ I’m looking to collaborate on ... Game projects or VR Products
+- 👀 I’m interested in ... Every fascinating design
+- 🌱 I’m currently learning ... Storyteling mediums
+- 💞️ I’m looking to collaborate on ... Game projects
 - 📫 How to reach me ... reachouttoniket.wordpress.com
 
 <!---
