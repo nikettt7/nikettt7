@@ -4,7 +4,7 @@
 - 👀 I’m interested in ... Every fascinating design
 - 🌱 I’m currently learning ... Narrative cultures
 - 💞️ I’m looking to collaborate on ... Game Design or Ed tech projects
-- 📫 more ... reachouttoniket.wordpress.com
+- 📫 more ... https://reachouttoniket.wordpress.com
   
 - 🎮 Game projects ... https://super-dam.itch.io/
 
